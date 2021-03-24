@@ -1,0 +1,14 @@
+body {
+  padding: 3% 20%;
+}
+.box {
+  border: solid 2px grey;
+  padding: 35px;
+}
+.grey {
+  color: grey;
+}
+.left {
+  position: relative;
+  left: 35px;
+}
